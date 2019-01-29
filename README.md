@@ -1,6 +1,8 @@
 # WP-Eventbrite-Embedded-Checkout
 Allows people to buy Eventbrite tickets without leaving your website. Sell tickets right from your WordPress site!
 
+Demo : https://hellohendra.com/wp-eventbrite-demo/
+
 ## Installation
 1. Activate the plugin
 2. Go to Eventbrite Form
@@ -24,5 +26,4 @@ Yes, in order to embed the Eventbrite checkout form on your WordPress website, y
 Please see this official instruction from Eventbrite. [How to Find the Event ID](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-find-the-event-id?lg=en_US)
 
 ##### Changelog
-1.0.0: January 29, 2019
-* First version
+1.0.0: January 29, 2019 - First release
